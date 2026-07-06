@@ -4,6 +4,7 @@
     margin: 0px;    
     color: #2B2D42;
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
 }
 html, body {
     width: 100%;
